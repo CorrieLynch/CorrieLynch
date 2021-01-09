@@ -4,7 +4,7 @@
 
 I like helping people, I code random things, let me be.
 
-Skills: REACT / JS / HTML / CSS / PHP /MYSQL / C# / C++ / PYTHON / NODEJS
+Skills: REACT / JS / HTML / CSS / PHP /MYSQL / C# / C++ / PYTHON / NODEJS / JAVASCRIPT / JAVA / RUBY
 
 - 🔭 I’m currently working on Random Things 
 - 🌱 I’m currently learning Nothing 
